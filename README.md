@@ -6,7 +6,7 @@ I am a mechatronic engineer by profession and a designer by love.
 I'm learning a lot about being a web developer. I'm focusing on the front-end because of my passion for design.
 
 **You can contact me at**
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sergiompapagayo)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergiompapagayo)
 
 
 ## 🛠 Skills
